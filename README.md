@@ -12,11 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm **M. Singgi Aditya Ramadhan** – a passionate software developer committed to creating impactful and innovative solutions!  
-- 💻 Experienced in **Flutter**, **Laravel**, and other cutting-edge technologies.
-- 🌱 I’m currently learning Mobile, Website & Back-End Development
-- 🌟 Focused on delivering robust and user-friendly applications, including mobile apps, e-commerce platforms, and productivity tools.  
-- 🌐 Explore my work: [My Portfolio](https://singgidev.netlify.app)  
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h2>
+        👋 Hi, I'm Singgi
+      </h2>
+      <br>
+      <h4>
+        a passionate software developer committed to creating impactful and innovative solutions✨
+      </h4>
+    </summary>
+  </ul>
+</div>
+
+- 🔭 I’m currently working on: Developing mobile app using flutter
+- 🌱 I’m currently learning: Mobile, Website & Back-End Development
+- 🌟 Focused on: delivering robust and user-friendly applications, including mobile apps, e-commerce platforms, and productivity tools.  
+- 🌐 Explore my work: [My Portfolio](https://singgidev.netlify.app)
+
+ **<h3 align="left">Skills</h3>**
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;">
+  <img src="https://skillicons.dev/icons?i=flutter" height="44" alt="Flutter" style="margin-right: 12px">
+  <img src="https://skillicons.dev/icons?i=dart" height="44" alt="Dart" style="margin-right: 12px">
+  <img src="https://skillicons.dev/icons?i=java" height="44" alt="Java" style="margin-right: 12px">  
+  <img src="https://skillicons.dev/icons?i=javascript" height="44" alt="Flutter" style="margin-right: 12px">
+  <img src="https://skillicons.dev/icons?i=php" height="44" alt="Dart" style="margin-right: 12px">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="44" alt="Tailwind CSS" style="margin-right: 12px">  
+  <img src="https://skillicons.dev/icons?i=laravel" height="44" alt="Laravel" style="margin-right: 12px">  
+  <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="MySQL" style="margin-right: 12px">  
+  <img src="https://skillicons.dev/icons?i=firebase" height="44" alt="Firebase" style="margin-right: 12px">   
+  <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode" style="margin-right: 12px">  
+</div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
