@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <div id="toc">
   <ul align="center" style="list-style: none">
     <summary>
-      <h2>
+      <h1>
         👋 Hi, I'm Singgi
-      </h2>
+      </h1>
       <br>
-      <h4>
+      <h3>
         a passionate software developer committed to creating impactful and innovative solutions✨
-      </h4>
+      </h3>
     </summary>
   </ul>
 </div>
