@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Mobile, Website & Back-End Development
 - 🌟 Focused on delivering robust and user-friendly applications, including mobile apps, e-commerce platforms, and productivity tools.  
 - 🌐 Explore my work: [My Portfolio](https://singgidev.netlify.app)  
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/singgiaditya/)!
 
  **<h3 align="left">GitHub Stats</h3>**
 
