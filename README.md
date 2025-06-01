@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 🌟 Focused on: delivering robust and user-friendly applications, including mobile apps, e-commerce platforms, and productivity tools.  
 - 🌐 Explore my work: [My Portfolio](https://singgidev.netlify.app)
 
- **<h3 align="left">Skills</h3>**
+ **<h3 align="left">Tech Stack:</h3>**
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;">
   <img src="https://skillicons.dev/icons?i=flutter" height="44" alt="Flutter" style="margin-right: 12px">
@@ -46,9 +46,10 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=vscode" height="44" alt="VSCode" style="margin-right: 12px">  
 </div>
 
- **<h3 align="left">GitHub Stats</h3>**
+ **<h3 align="left">GitHub Stats:</h3>**
 
 <p align="left">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=singgiaditya&theme=react&hide_border=false" alt="GitHub streak Card" /> <br/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=singgiaditya&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
 
