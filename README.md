@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-- 🔭 I’m currently working on: Developing mobile app using flutter
+- 🔭 I’m currently working on: Developing mobile app using flutter & Green House IOT Systems
 - 🌱 I’m currently learning: Mobile, Website & Back-End Development
 - 🌟 Focused on: delivering robust and user-friendly applications, including mobile apps, e-commerce platforms, and productivity tools.  
 - 🌐 Explore my work: [My Portfolio](https://singgidev.netlify.app)
