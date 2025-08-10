@@ -26,6 +26,25 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
+🚀 **Tech Explorer | Mobile Dev Enthusiast | Idea Machine**  
+I love turning ideas into real, usable products — from mobile apps to fun side projects.  
+Always curious, always tinkering, always learning.
+
+## 🔧 Tech & Tools
+- Flutter & BLoC Architecture  
+- Laravel & Rails for backend magic  
+- MQTT, IoT, and experimental AI projects  
+
+## 🎯 What I’m up to
+- Building creative mobile apps with clean architecture  
+- Experimenting with IoT & greenhouse automation  
+- Turning “what if” into “here it is”  
+
+## 💡 Fun Facts
+- I tinker with tech until it works… or until my laptop begs for mercy  
+- I believe: *If it can be made awesome, why settle for average?*  
+- Too many ideas, too little time — but that’s the fun of it
+##
 - 🔭 I’m currently working on: Developing mobile app using flutter & Green House IoT Systems
 - 🌱 I’m currently learning: Mobile, Website & Back-End Development
 - 🌟 Focused on: delivering robust and user-friendly applications, including mobile apps, e-commerce platforms, and productivity tools.  
